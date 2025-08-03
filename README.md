@@ -1,6 +1,6 @@
 # Neuronal Dynamics: Python Exercises
 
-This repository contains python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski. References to relevant chapters will be added in the Teaching Materials section of the book homepage.
+This repository contains my solutions and the thought process behind the python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski. References to relevant chapters will be added in the Teaching Materials section of the book homepage. 
 
 ### Exercises & Documentation
 
